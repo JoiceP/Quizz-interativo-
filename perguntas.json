@@ -1,0 +1,27 @@
+[
+  {
+    "pergunta": "Qual a capital da França?",
+    "opcao": ["(A) Londres", "(B) Paris", "(C) Roma"],
+    "resposta": "B"
+  },
+  {
+    "pergunta": "Quanto é 7 x 8?",
+    "opcao": ["(A) 54", "(B) 56", "(C) 64"],
+    "resposta": "B"
+  },
+  {
+    "pergunta": "Quem desenvolveu a teoria da relatividade?",
+    "opcao": ["(A) Isaac Newton", "(B) Albert Einstein", "(C) Galileu Galilei"],
+    "resposta": "B"
+  },
+  {
+    "pergunta": "Qual o maior planeta do sistema solar?",
+    "opcao": ["(A) Terra", "(B) Júpiter", "(C) Saturno"],
+    "resposta": "B"
+  },
+  {
+    "pergunta": "Em que continente fica o Egito?",
+    "opcao": ["(A) África", "(B) Ásia", "(C) Europa"],
+    "resposta": "A"
+  }
+]
